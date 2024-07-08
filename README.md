@@ -1,6 +1,4 @@
-# 法轮大法好不好？
-
-## 王志安
+# 王志安
 
 <video controls>
   <source src="https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/20231218-1.mp4"  type="video/mp4">
