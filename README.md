@@ -2,7 +2,7 @@
 
 ## 王志安
 
-<video width="854" height="480" controls>
+<video controls>
   <source src="https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/20231218-1.mp4"  type="video/mp4">
   您的浏览器不支持 HTML5 video 标签。
 </video>
