@@ -8,6 +8,8 @@ video {
   width: 100%;
 }
 
-p {
-  margin: 1em;
+@media print, screen and (max-width: 1060px) {
+  h1, h2, h3, h4, p {
+    margin: 10px;
+  }
 }
