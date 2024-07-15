@@ -1,9 +1,9 @@
-# 法轮大法好不好？
+# 法轮功内讧始末
 
 # 1 王志安
 
 <video controls poster="assets/img/wza-1.jpg">
-  <source src="https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/wza-1-2023-12-18.mp4"  type="video/mp4">
+  <source src="https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/wza-1-2023-12-18.mp4" type="video/mp4">
   您的浏览器不支持 HTML5 video 标签。
 </video>
 
@@ -12,7 +12,7 @@
 原王志安的视频被迫下架, 备用视频链接: <https://www.youtube.com/watch?v=yVLiGNxvc4U>
 
 <video controls poster="assets/img/wza-2.jpg">
-  <source src="https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/wza-2-2023-12-18.mp4"  type="video/mp4">
+  <source src="https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/wza-2-2023-12-18.mp4" type="video/mp4">
   您的浏览器不支持 HTML5 video 标签。
 </video>
 
