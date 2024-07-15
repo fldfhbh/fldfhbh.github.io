@@ -1,4 +1,4 @@
-# 法轮功内讧始末
+# 法轮大法好不好
 
 # 1 王志安
 
@@ -33,7 +33,6 @@
 >上午9:11 · 2023年11月27日
 >
 >原帖: <https://x.com/XiaoMing_SG/status/1729558067396960741>
-
 
 
 > 本來沒想寫這個帖子。但是太多法輪功學員給我打電話，發信息，我回不過來，所以在這裡統一回應一下。我感謝真心關心我的法輪功學員，朋友。你們的善意我會長久記在心裡。不過我後來也意識到一件事。如果我沒有發這個聲明到FB和X，而只是被默默的逐出了團體，那麼來關心我的同修會大大減少。這些同修找我的核心訴求是讓我把聲明從社交媒體拿下來，因為他們認為我的聲明給法輪功造成了很大的負面影響。還有些人說：如果你還把自己當弟子，就不能發這樣的東西。
@@ -85,14 +84,16 @@
 > 原帖: <https://x.com/XiaoMing_SG/status/1729558067396960741>
 
 
-
-
-<video controls>
-  <source src="https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/xm-wza-2024-01-28.mp4"  type="video/mp4">
-  您的浏览器不支持 HTML5 video 标签。
-</video>
+<div class="container">
+  <iframe src="//www.youtube.com/embed/vqFT7ea-Zss"
+    frameborder="0" allowfullscreen class="video">
+  </iframe>
+</div>
 
 站在真相一邊，不要站在立場一邊 ------我談王志安事件
+
+下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/xm-wza-2024-01-28.mp4>
+
 
 # 3 北静
 
@@ -103,3 +104,6 @@
 </div>
 
 來自法輪功的一次地震，涉及虞超和蕭茗，文昭會因此被牽連而離開油管嗎？讓我們掀開一角來窺探這個邪教的本質⋯⋯
+
+下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/bj-2023-12-01.mp4>
+
