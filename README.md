@@ -135,5 +135,5 @@
 
 來自法輪功的一次地震，涉及虞超和蕭茗，文昭會因此被牽連而離開油管嗎？讓我們掀開一角來窺探這個邪教的本質⋯⋯ 2023-12-01
 
-下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/bj-2023-12-01.mp4>
+下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/RKcR2UwjOxk.mp4>
 
