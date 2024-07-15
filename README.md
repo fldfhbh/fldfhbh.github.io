@@ -90,9 +90,39 @@
   </iframe>
 </div>
 
-站在真相一邊，不要站在立場一邊 ------我談王志安事件
+站在真相一邊，不要站在立場一邊 ------我談王志安事件 2024-01-28
 
-下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/xm-wza-2024-01-28.mp4>
+下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/vqFT7ea-Zss.mp4>
+
+<div class="container">
+  <iframe src="//www.youtube.com/embed/1_l0ZGmkjw0"
+    frameborder="0" allowfullscreen class="video">
+  </iframe>
+</div>
+
+我經歷的臺灣觀選風波；被兩次開除出法輪功組織的過程；我對法輪功的困惑 2023-02-26
+
+下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/1_l0ZGmkjw0.mp4>
+
+<div class="container">
+  <iframe src="//www.youtube.com/embed/Z2HQ20WF59I"
+    frameborder="0" allowfullscreen class="video">
+  </iframe>
+</div>
+
+回應法輪功學員，兼談信仰 2024-05-20
+
+下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/Z2HQ20WF59I.mp4>
+
+<div class="container">
+  <iframe src="//www.youtube.com/embed/dB0_IMd4rAE"
+    frameborder="0" allowfullscreen class="video">
+  </iframe>
+</div>
+
+法輪功：從修煉到洗錢的旅程 2024-06-09
+
+下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/dB0_IMd4rAE.mp4>
 
 
 # 3 北静
@@ -103,7 +133,7 @@
   </iframe>
 </div>
 
-來自法輪功的一次地震，涉及虞超和蕭茗，文昭會因此被牽連而離開油管嗎？讓我們掀開一角來窺探這個邪教的本質⋯⋯
+來自法輪功的一次地震，涉及虞超和蕭茗，文昭會因此被牽連而離開油管嗎？讓我們掀開一角來窺探這個邪教的本質⋯⋯ 2023-12-01
 
 下载此视频: <https://github.com/fldfhbh/fldfhbh.github.io/releases/download/v1.0/bj-2023-12-01.mp4>
 
