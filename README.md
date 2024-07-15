@@ -97,9 +97,9 @@
 # 3 北静
 
 <iframe src="https://www.youtube.com/embed/RKcR2UwjOxk?si=_0Vrrw3l-MpxbRCG"
-    width="100%" title="YouTube video player" frameborder="0" allowfullscreen
+    width="100%" height="auto" title="YouTube video player" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin">
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
 來自法輪功的一次地震，涉及虞超和蕭茗，文昭會因此被牽連而離開油管嗎？讓我們掀開一角來窺探這個邪教的本質⋯⋯
